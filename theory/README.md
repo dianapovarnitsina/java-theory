@@ -11,42 +11,42 @@
 
 
 --------
-различия между версиями java
-java collections
-Потоки ввода-вывода в Java
-Сериализация/десериализация
-stream API
-Java Virtual Machine (организация памяти и бор мусора)
+различия между версиями java <br>
+java collections <br>
+Потоки ввода-вывода в Java <br>
+Сериализация/десериализация <br>
+stream API <br>
+Java Virtual Machine (организация памяти и бор мусора) <br>
 
-ООП
-SOLID
-Паттерны проектирования
-Многопоточность
-Dependency Injection
+ООП <br>
+SOLID <br>
+Паттерны проектирования <br>
+Многопоточность <br>
+Dependency Injection <br>
 
-Lombok
-Gradle + Maven
-TestNg + junit
-Базы данных + sql  + JDBC + ORM: Hibernate
-CI/CD
-Jenkins
-Git
+Lombok <br>
+Gradle + Maven <br>
+TestNg + junit <br>
+Базы данных + sql  + JDBC + ORM: Hibernate <br>
+CI/CD <br>
+Jenkins <br>
+Git <br>
 
-Аспектное программирование
-OAuth2 + JWT
-Spring: Core, MVC, Security, React
-Vert.x
+Аспектное программирование <br>
+OAuth2 + JWT <br>
+Spring: Core, MVC, Security, React <br>
+Vert.x <br>
 
-SOAP, RESTful
-Микросервисная архитектура
-Apache Kafka
-Docker
+SOAP, RESTful <br>
+Микросервисная архитектура <br>
+Apache Kafka <br>
+Docker <br>
 
 
-IDE
-UML
+IDE <br>
+UML <br>
 
-сети
+сети <br>
 
 
 
