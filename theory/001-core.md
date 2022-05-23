@@ -45,7 +45,7 @@ Java реализует:
 - парадигму процедурного программирования
 - ооп
 
-![Image alt](/Users/diana.povarnitsina/Auto/java-theory/theory/img/paradigms.png)
+![Image alt](https://raw.githubusercontent.com/dianapovarnitsina/java-theory/master/theory/img/paradigms.png)
 
 
 ### Компиляция и запуск
@@ -57,7 +57,7 @@ Java реализует:
 
 Важно помнить: код, вводимый в JVM, не зависит от платформы, а код вывода зависит от платформы.
 
-![Image alt](/Users/diana.povarnitsina/Auto/java-theory/theory/img/cycle_JVM_programm.png)
+![Image alt](https://raw.githubusercontent.com/dianapovarnitsina/java-theory/master/theory/img/cycle_JVM_programm.png)
 
 ### JVM, JRE и JDK
 
@@ -69,9 +69,9 @@ Java Development Kit (JDK), включающий JRE и средства раз�
 
 ***Связь между JVM, JRE и JDK***
 
-![Image alt](/Users/diana.povarnitsina/Auto/java-theory/theory/img/jdk.png)
+![Image alt](https://raw.githubusercontent.com/dianapovarnitsina/java-theory/master/theory/img/jdk.png)
 
-![Image alt](/Users/diana.povarnitsina/Auto/java-theory/theory/img/jdk2.png)
+![Image alt](https://raw.githubusercontent.com/dianapovarnitsina/java-theory/master/theory/img/jdk2.png)
 
 https://hyperskill.org/learn/step/3499
 
@@ -95,7 +95,7 @@ https://hyperskill.org/learn/step/3499
 @Override переопределяет (“затирает”) метод не только первого родит. класса, но и все вышестоящие реализации, если они были.
 
 Возле переопределенных методов показываются спец. иконки со стрелкой вниз, нажав на которые можно увидеть все переопределения данного метода в дочерних классах.
-![Image alt](/Users/diana.povarnitsina/Auto/java-theory/theory/img/Override.png)
+![Image alt](https://raw.githubusercontent.com/dianapovarnitsina/java-theory/master/theory/img/Override.png)
 
 
 `super` — используется для обращения к базовому классу, а `this` к текущему.<br>
