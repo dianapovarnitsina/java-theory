@@ -52,3 +52,8 @@ UML <br>
 
 
 
+___
+https://rules.sonarsource.com/java
+
+
+
