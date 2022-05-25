@@ -56,4 +56,8 @@ ___
 https://rules.sonarsource.com/java
 
 
+https://www.packt.com/product/programming/b12731-java-coding-problems/
+!!!https://github.com/packtpublishing/java-coding-problems
+
+
 

@@ -2,7 +2,8 @@
 
 + [Общие определения](core/definition.md)
 + [ООП](core/oop.md)
-+ [Типы данных](core/type.md)
++ [Типы данных](core/typeData.md)
++ [Типы переменных](core/typeVariable.md)
 + [Базовые операторы](core/baseOperators.md)
 + 
 
