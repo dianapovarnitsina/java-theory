@@ -1,10 +1,10 @@
 ### Темы Java Core
 
-+ [Общие определения](core/definition.md)
-+ [ООП](core/oop.md)
-+ [Типы данных](core/typeData.md)
-+ [Типы переменных](core/typeVariable.md)
-+ [Базовые операторы](core/baseOperators.md)
++ [Общие определения](definition.md)
++ [ООП](oop.md)
++ [Типы данных](type-data.md)
++ [Типы переменных](type-variable.md)
++ [Базовые операторы](baseOperators.md)
 + 
 
 
