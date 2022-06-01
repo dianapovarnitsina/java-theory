@@ -60,6 +60,7 @@ SOAP, RESTful <br>
 Микросервисная архитектура <br>
 Apache Kafka <br>
 Docker <br>
+regexp https://www.youtube.com/playlist?list=PL786bPIlqEjQsE_WAcKpkZ-Q4T-A8j1D2
 
 
 IDE <br>
