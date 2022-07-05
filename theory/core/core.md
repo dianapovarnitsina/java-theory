@@ -5,20 +5,7 @@
 + [Типы данных](type-data.md)
 + [Типы переменных](type-variable.md)
 + [Базовые операторы](baseOperators.md)
-+ 
-
-
-
-
-
-
-
-
-
-
-
-
-
++ [Dependency Injection (DI)](di.md)
 
 
 
